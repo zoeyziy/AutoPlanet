@@ -1,7 +1,7 @@
 # Automated Behavior Analysis 
 
 Type: web application
-Team: Zoey, Jilian, and Tasha
+Team: Zoey Yang, Jilian Lai, and Tasha Kim
 
 ## Overview
 A fullstack web interface that utilizes machine learning to estimate mice behavior with user-defined time intervals. This application can be used if you need:
