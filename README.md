@@ -25,7 +25,6 @@ ui->src->components/navbar->GoogleBtn.js<br/>
 - Backend: Express, Node.js, MongoDB, GraphQL
 - Frontend: React.js, HTML/CSS
 
-
 ## Main Features
 - User login/logout
 - Load videos
@@ -45,7 +44,4 @@ ui->src->components/navbar->GoogleBtn.js<br/>
 - Privacy: information collected (access tokens, Google account information, user-defined behavior tags and their corresponding time intervals) is only used in the app and not shared with third parties outside of those used to host the website and database.
 
 ## Connection to Client's API
-Client will develop a backend Python API that takes inputs from our web application, performs machine learning on training data, then is able to take testing inputs from our web application to make predictions on the behavior of animals on the user-uploaded videos. When prediction outputs of the Python API is sent back to our backend, we retrieve these results and write to a downloadable CSV file that the users can then download on the 'results' page. 
-
-## Future work:
-Since our final project is a part of our client's funded PhD project that lasts for at least a year, they are still working on developing the Python API and currently this web application is not connected with a behavior estimation model. Once they finish implementing the machine learning model, we plan to connect with it and do further testings. Right now our client is satisfied with this fullstack interface.
+Client will develop a backend Python API that takes inputs from our web application, performs machine learning on training data, then is able to take testing inputs from our web application to make predictions on the behavior of animals on the user-uploaded videos. When prediction outputs of the Python API is sent back to our backend, we retrieve these results and write to a downloadable CSV file that the users can then download on the 'results' page.
