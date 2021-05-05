@@ -1,4 +1,4 @@
-# Automated Behavior Analysis 
+# AutoPlanet - Automated Behavior Analysis Application
 
 Type: web application
 Team: Zoey Yang, Jilian Lai, and Tasha Kim
